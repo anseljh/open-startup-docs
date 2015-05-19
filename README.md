@@ -37,7 +37,10 @@ We hope to work on the following common documents:
 License
 -------
 
-This repository is licensed liberally under CC0. Don’t contribute unless you
-understand the license and are OK with it. We intend for the works in this
-repository to be **original**. Please don’t contribute material copied from
-other sources.
+This repository is licensed extremely liberally under [CC0][4].
+
+[4]: <https://creativecommons.org/publicdomain/zero/1.0/>
+
+Don’t contribute unless you understand the license and are OK with it. We intend
+for the works in this repository to be **original**. Please don’t contribute
+material copied from other sources.
